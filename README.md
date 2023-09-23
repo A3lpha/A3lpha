@@ -12,8 +12,27 @@
 - 👯 I’m looking to collaborate with **Red teamers**
 
 - ⚡ Fun fact **I love to play CTF.**
+## :zap: Projects
 
-### Connect with me:
+
+- [Active Directory Setup](https://github.com/A3lpha/AD)
+- [Basic Network Pentesting Lab](https://github.com/A3lpha/network-lab)
+- [eJPTv2 Cheatsheet/Notes](https://github.com/A3lpha/ejptv2)
+- [Write Ups](https://github.com/A3lpha/Write-Ups)
+
+## 🚶 Walkthroughs
+
+- [blue - TryHackMe](https://github.com/A3lpha/Write-Ups/edit/main/TryHackMe/blue.md)
+- [ice - TryHackMe](https://github.com/A3lpha/Write-Ups/edit/main/TryHackMe/ice.md)
+
+## 📺  YouTube Videos
+
+- [Setting Up Active Directory](https://www.youtube.com/)
+- [installing kali linux for virtual box](https://www.youtube.com/)
+- [installing kali linux for virtual machine](https://youtu.be/0YpwRYq-RAo)
+- [Pentesting Routers: Setting up the Lab](https://youtu.be/FVvaHPj0ikc)
+
+## 🤳 Connect with me:
 
 <a href="https://twitter.com/@He1l0world" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@He1l0world
 " height="22" width="22" /></a>
