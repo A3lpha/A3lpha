@@ -7,16 +7,15 @@
 
 - 🔭 I’m currently working on [AlphaSploit](https://www.youtube.com/@al3phasploit)
 
-- (☞ﾟヮﾟ)☞ I’m currently learning **malware analyst**
+- ☞ I’m currently learning **malware analyst**
 
 - 👯 I’m looking to collaborate with **Red teamers**
 
 - ⚡ Fun fact **I love to play CTF.**
 ## :zap: Projects
 
-
-- [Active Directory Setup](https://github.com/A3lpha/AD)
 - [Basic Network Pentesting Lab](https://github.com/A3lpha/network-lab)
+- [Active Directory Setup](https://github.com/A3lpha/AD)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/A3lpha/ejptv2)
 - [Write Ups](https://github.com/A3lpha/Write-Ups)
 
