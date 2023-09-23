@@ -17,6 +17,7 @@
 - [Basic Network Pentesting Lab](https://github.com/A3lpha/network-lab)
 - [Active Directory Setup](https://github.com/A3lpha/AD)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/A3lpha/ejptv2)
+- [evc-plus](https://github.com/A3lpha/evc-plus)
 - [Write Ups](https://github.com/A3lpha/Write-Ups)
 
 ## 🚶 Walkthroughs
