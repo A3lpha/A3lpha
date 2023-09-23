@@ -23,6 +23,7 @@
 
 - [blue - TryHackMe](https://github.com/A3lpha/Write-Ups/edit/main/TryHackMe/blue.md)
 - [ice - TryHackMe](https://github.com/A3lpha/Write-Ups/edit/main/TryHackMe/ice.md)
+- [bolt - TryHackme](https://github.com/A3lpha/Write-Ups/blob/main/TryHackMe/Bolt/README.md)
 
 ## 📺  YouTube Videos
 
