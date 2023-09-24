@@ -34,19 +34,15 @@
 - [Pentesting Routers: Setting up the Lab](https://youtu.be/FVvaHPj0ikc)
 
 ## 🤳 Connect with me:
-
-<a href="https://twitter.com/@He1l0world" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@He1l0world
-" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/adnan-jafar" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adnan-jafar" height="22" width="22" /></a>
-<a href="https://www.youtube.com/@al3phasploit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
-
-
+<a href="https://twitter.com/@He1l0world" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@He1l0world" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/adnan-jafar" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adnan-jafar" height="22" width="22" /></a>
+<a href="https://www.youtube.com/@al3phasploit" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 <br />
 
 ### Languages and Tools:
-
-<p align="left">
-  
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -55,8 +51,12 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<p align="left">
+  
 
-* [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+
+
+
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="22" height="22"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="22" height="22"/> 
