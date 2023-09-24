@@ -44,6 +44,12 @@
 
 ### Languages and Tools:
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<a href="https://ghidra-sre.org/">
+  <img width="30" title="ghidra" alt="ghidra Logo" src="https://github.com/A3lpha/logos-and-badges/blob/main/ghidra.png">
+</a>
+<a href="powershell">
+  <img width="70" title="powershell" alt="powershell Logo" src="https://github.com/A3lpha/logos-and-badges/blob/main/powershell-2-400x225.png">
+</a>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python_3.10-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,6 +57,8 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 <p align="left">
   
