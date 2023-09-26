@@ -40,6 +40,9 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adnan-jafar" height="22" width="22" /></a>
 <a href="https://www.youtube.com/@al3phasploit" target="blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
+
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=TryHackMe)](https://tryhackme.com/p/Al3pha)
+
 <br />
 
 ### Languages and Tools:
