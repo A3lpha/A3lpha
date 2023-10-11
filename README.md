@@ -30,8 +30,8 @@
 
 - [Setting Up Active Directory](https://www.youtube.com/)
 - [installing kali linux for virtual box](https://www.youtube.com/)
-- [installing kali linux for virtual machine](https://youtu.be/0YpwRYq-RAo)
-- [Pentesting Routers: Setting up the Lab](https://youtu.be/FVvaHPj0ikc)
+- [installing kali linux for virtual machine](https://youtube)
+- [Pentesting Routers: Setting up the Lab](https://youtube)
 
 ## 🤳 Connect with me:
 <a href="https://twitter.com/@He1l0world" target="blank">
