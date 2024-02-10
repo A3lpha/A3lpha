@@ -15,7 +15,7 @@
 ## :zap: Projects
 
 - [Basic Network Pentesting Lab](https://github.com/A3lpha/network-lab)
-- [Active Directory Setup](https://github.com/A3lpha/AD)
+- [Active Directory Setup](https://github.com/A3lpha/PROJECTS/tree/main/active_directory)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/A3lpha/ejptv2)
 - [Write Ups](https://github.com/A3lpha/Write-Ups)
 - [evc-plus](https://github.com/A3lpha/evc-plus)
