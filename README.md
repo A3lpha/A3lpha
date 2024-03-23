@@ -1,3 +1,10 @@
+<img src="https://komarev.com/ghpvc/?username=A3lpha&style=flat-square&color=blue" alt=""/>
+
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm A3lpha </h1>
 <h3 align="center">A self-taught Cybersecurity Researcher and born at very little age😜</h3>
 <h3 align="center">Red Team | Penetration Tester | Founder & CTO @AlphaSploit</h3>
