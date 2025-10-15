@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm A3lpha </h1>
 <h3 align="center">A self-taught Cybersecurity Researcher and born at very little age😜</h3>
-<h3 align="center">Red Team | Penetration Tester | Founder & CEO @AlphaSploit</h3>
+<h3 align="center">Red Team | Penetration Tester | CEO & Founder, @AlphaSploit</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/He1l0world?label=He1l0world&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/A3lpha?logo=GitHub&style=for-the-badge)
